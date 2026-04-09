@@ -1,0 +1,38 @@
+# Kaggle credentials (CRITICAL)
+kaggle.json
+.kaggle/
+*.kaggle.json
+
+# Environment variables
+.env
+.env.*
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+.idea/
